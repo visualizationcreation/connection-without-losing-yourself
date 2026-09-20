@@ -1,0 +1,129 @@
+{
+  "id": "connection-without-losing-yourself",
+  "title": "Connection Without Losing Yourself",
+  "summary": "Practice asking, listening and setting limits while keeping both people’s choices visible. Eight readings explore closeness that can make room for independence.",
+  "collection": "Self-Development — Small Changes, Deeper Living",
+  "pointCount": 8,
+  "language": "en",
+  "canonical": "https://orbiversity.com/connection-without-losing-yourself/",
+  "publicationStatus": "prepared",
+  "sourceRegister": [
+    {
+      "id": "balance",
+      "title": "The Balancing Act — Nedra Glover Tawwab (2026)",
+      "url": "https://www.penguinrandomhouse.com/books/760457/the-balancing-act-by-nedra-glover-tawwab/",
+      "publisher": "Tarcher",
+      "type": "Book / publisher overview",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "sdt",
+      "title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+      "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+      "publisher": "Ryan & Deci · American Psychologist, 2000",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "responsive",
+      "title": "Intimacy as an interpersonal process: self-disclosure and perceived partner responsiveness",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9599440/",
+      "publisher": "Laurenceau, Barrett & Pietromonaco · Journal of Personality and Social Psychology, 1998",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "compassion",
+      "title": "Self-compassion increases self-improvement motivation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+      "publisher": "Breines & Chen · Personality and Social Psychology Bulletin, 2012",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "ties",
+      "title": "Social Interactions and Well-Being: The Surprising Power of Weak Ties",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24769739/",
+      "publisher": "Sandstrom & Dunn · Personality and Social Psychology Bulletin, 2014",
+      "type": "Research",
+      "accessedAt": "2026-09-19"
+    }
+  ],
+  "sourcePointAssignments": [
+    {
+      "id": "connection-without-losing-yourself-p01",
+      "sourceIds": [
+        "balance"
+      ]
+    },
+    {
+      "id": "connection-without-losing-yourself-p02",
+      "sourceIds": [
+        "balance"
+      ]
+    },
+    {
+      "id": "connection-without-losing-yourself-p03",
+      "sourceIds": [
+        "sdt"
+      ]
+    },
+    {
+      "id": "connection-without-losing-yourself-p04",
+      "sourceIds": [
+        "balance"
+      ]
+    },
+    {
+      "id": "connection-without-losing-yourself-p05",
+      "sourceIds": [
+        "responsive"
+      ]
+    },
+    {
+      "id": "connection-without-losing-yourself-p06",
+      "sourceIds": [
+        "responsive",
+        "compassion"
+      ]
+    },
+    {
+      "id": "connection-without-losing-yourself-p07",
+      "sourceIds": [
+        "ties"
+      ]
+    },
+    {
+      "id": "connection-without-losing-yourself-p08",
+      "sourceIds": [
+        "responsive",
+        "balance"
+      ]
+    }
+  ],
+  "authorship": "Original readings and exercises authored with Codex for Orbiversity. Books are credited starting points; no endorsement is implied.",
+  "bookStartingPoint": {
+    "id": "balance",
+    "title": "The Balancing Act — Nedra Glover Tawwab (2026)",
+    "url": "https://www.penguinrandomhouse.com/books/760457/the-balancing-act-by-nedra-glover-tawwab/",
+    "publisher": "Tarcher",
+    "type": "Book / publisher overview",
+    "accessedAt": "2026-09-19"
+  },
+  "checkedConnections": [],
+  "media": {
+    "included": [
+      {
+        "src": "https://orbiversity.com/connection-without-losing-yourself/diagram.png",
+        "source": "https://orbiversity.com/connection-without-losing-yourself/diagram.svg",
+        "title": "Connection Without Losing Yourself — a practice map",
+        "caption": "Original explanatory diagram for this ORB. A suggested reflection sequence, not research data or a book illustration.",
+        "credit": "Orbiversity · original diagram authored with Codex",
+        "node": null,
+        "generated": false
+      }
+    ],
+    "generated": [],
+    "note": "An original explanatory diagram; no audio or video recording was added."
+  }
+}
